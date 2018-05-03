@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>chendongdong-swoole-ws测试</h1>
+<script>
+    var wsUrl = "ws://47.106.133.191:9501";
+    var websocket = new WebSocket(wsUrl);
+
+    //js的websocket实例对象的onopen属性
+    websocket.onopen = function (ev) {
+        websocket.send("hello-chendongdong");
+        console.log("connected-swoole-success");
+    }
+
+    //实例化 onmessage 事件
+    websocket.onmessage = function (ev) {
+        console.log("ws-server-return-data:" + ev.data);
+    }
+
+    //onclose
+    websocket.onclose = function (ev) {
+        console.log("close");
+    }
+
+    //onerror
+    websocket.onerror = function (ev, e) {
+        console.log("error:" + ev.data);
+    }
+</script>
+</body>
+</html>
