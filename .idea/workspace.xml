@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b621a33-b2c1-475c-a5a0-1bc4173b86f7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo/io/1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo/io/mysql.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo/io/read.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo/io/write.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/demo/server/ws.php" afterPath="$PROJECT_DIR$/demo/server/ws.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -167,7 +162,7 @@
       <workItem from="1525351003747" duration="8541000" />
       <workItem from="1525787414325" duration="3009000" />
       <workItem from="1525873800217" duration="3158000" />
-      <workItem from="1525961936109" duration="4621000" />
+      <workItem from="1525961936109" duration="4628000" />
     </task>
     <task id="LOCAL-00001" summary="lll">
       <created>1525278241202</created>
@@ -211,11 +206,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525790597816</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="案例demo">
+      <created>1525966565734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525966565734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22878000" />
+    <option name="totallyTimeSpent" value="22885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
