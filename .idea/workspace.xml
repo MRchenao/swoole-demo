@@ -2,197 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b621a33-b2c1-475c-a5a0-1bc4173b86f7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo/coroutine/redis.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/admin/controller/Image.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/admin/controller/Live.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/command.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/common.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/common/lib/Redis.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/common/lib/Util.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/common/lib/ali/Sms.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/common/lib/redis/Predis.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/common/lib/task/Task.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/index/controller/Chart.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/index/controller/Index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/index/controller/Index2.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/index/controller/Login.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/index/controller/Send.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/application/tags.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/build.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/app.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/cache.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/code.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/cookie.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/database.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/live.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/log.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/redis.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/session.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/template.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/config/trace.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/extend/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/router.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/css/font.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/css/xadmin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/fonts/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/fonts/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/fonts/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/fonts/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/images/aiwrap.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/images/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/js/xadmin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/layui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/layui.mobile.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/code.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/laydate/default/laydate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/layer/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/layer/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/layer/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/layer/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/layer/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/css/modules/layer/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/font/iconfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/font/iconfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/font/iconfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/font/iconfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/4.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/5.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/6.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/7.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/images/face/9.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/element.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/flow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/laydate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/layedit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/laypage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/laytpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/mobile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/tree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/upload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/lay/modules/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/layui.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/lib/layui/layui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/admin/live.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/live/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/upload/20180402/04dc042ec3c05cefcc7828eb3c39291b.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/upload/20180402/362c333676bbbc4f1e6eadd351e67a7f.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/upload/20180402/82c2e1bc4ac4783b2c90990ac2230a3f.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/upload/20180402/9b33f1236ba86c2b33e80fecdff6564f.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/upload/20180402/a763ac7646a2c9ae1f219bff636c2c5c.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/upload/20180402/d42f70594a619e95c28e27cb80d3c0e6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/Uploader.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.custom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.custom.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.fis.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.flashonly.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.flashonly.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.html5only.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.html5only.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.noimage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.noimage.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.nolog.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.nolog.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.withoutimage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/public/static/webuploader/webuploader.withoutimage.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/route/route.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/runtime/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/script/bin/server/http.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/script/bin/server/http_server.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/script/bin/server/reload.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/script/bin/server/t.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/script/bin/server/ws.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/script/monitor/a.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/script/monitor/server.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/server/http_server.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/think" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/thinkphp/vendor/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -371,7 +180,7 @@
       <workItem from="1525873800217" duration="3158000" />
       <workItem from="1525961936109" duration="4684000" />
       <workItem from="1526106677582" duration="6423000" />
-      <workItem from="1526178506079" duration="6912000" />
+      <workItem from="1526178506079" duration="6955000" />
     </task>
     <task id="LOCAL-00001" summary="lll">
       <created>1525278241202</created>
@@ -443,11 +252,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526183998801</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="案例demo">
+      <created>1526197109537</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526197109537</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36276000" />
+    <option name="totallyTimeSpent" value="36319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
